@@ -1,0 +1,5 @@
+Training started.
+Training started.
+Training started.
+Epoch 1 | train loss 0.215  acc 40.24%  rot 41.89° || val loss 0.143  acc 53.24%  rot 29.98°
+Epoch 2 | train loss 0.120  acc 58.55%  rot 26.41° || val loss 0.106  acc 61.10%  rot 24.33°
