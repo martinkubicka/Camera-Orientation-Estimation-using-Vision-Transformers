@@ -1,7 +1,0 @@
-numpy
-Pillow
-py360convert
-scikit_learn
-torch
-torchvision
-tqdm
